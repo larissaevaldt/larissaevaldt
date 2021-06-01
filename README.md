@@ -1,4 +1,4 @@
-### Hello World, I'm Larissa  👋 
+### Hello, I'm Larissa! Nice to meet you  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 
  <img align="right" alt="GIF" src="https://github.com/larissaevaldt/larissaevaldt/blob/main/coder-girl.gif?raw=true" width="500" height="320" />
 
