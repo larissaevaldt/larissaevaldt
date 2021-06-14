@@ -11,11 +11,6 @@ I have a great admiration for all the things that technology allows human beings
 - 💬 Ask me about ... Anything
 
 
-### Talk with me:
-[<img align="left" alt="Larissa Evaldt | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
-
 ### Languages and Tools:
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -32,7 +27,6 @@ I have a great admiration for all the things that technology allows human beings
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /><img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <br />
 <br />
----
 
 <details>
   <summary>:zap: GitHub Stats</summary>
@@ -47,5 +41,10 @@ I have a great admiration for all the things that technology allows human beings
 <img align="left" alt="Larissa's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissaevaldt" />
 
 </details>
+
+### Talk with me:
+[<img align="left" alt="Larissa Evaldt | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
 
 [linkedin]: https://www.linkedin.com/in/larissaevaldt/
