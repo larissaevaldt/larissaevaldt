@@ -3,7 +3,7 @@
  <img align="right" alt="GIF" src="https://github.com/larissaevaldt/larissaevaldt/blob/main/coder-girl.gif?raw=true" width="500" height="300" />
 
 
-## I'm a Junior Software Developer working at Zinkworks.
+## I'm a Software Engineer working at Zinkworks.
 Bachelors degree in Computing and Information Technology from CCT College Dublin. I am currently working as a Backend Software Engineer in the Telecommunications sector. The main technologies I work with are: Java, Kafka, Python, Docker, Kubernetes, Jenkins.
 
 I am passionate about computer programming, logical thinking, troubleshooting and problem solving. I love learning new things and keeping myself updated with the new technologies. Also have a great admiration for all the things that technology allows human beings to do!
